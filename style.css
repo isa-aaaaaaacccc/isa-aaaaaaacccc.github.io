@@ -5,7 +5,7 @@
 .container{
   height:100vh;
   width:100%;
-  background-image:url(file:///Users/isaacye/Desktop/background.png);
+  background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-background&psig=AOvVaw0dcw35PZ1tUM3N1OrVggsm&ust=1666187202177000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLj175T16foCFQAAAAAdAAAAABAE); /* your own image background */
   background-position:center;
   background-size:cover;
   padding-right:5%;
