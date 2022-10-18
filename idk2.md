@@ -4,4 +4,4 @@ filename: idk2.md
 permalink: /idk2
 --- 
 
-<h1> I dont know! </h1>
+<h2> I dont know! </h2>
